@@ -7,3 +7,5 @@ My name is Sam and I'm a husband, father, software developer and portrait photog
 - ⚡ Fun fact: [I like turtles](https://www.youtube.com/watch?v=CMNry4PE93Y)
 
 Personal Website - https://www.samuelrussell.net/ | Photography Website - https://www.samuelrussellphoto.com/
+
+![Naming stuff is hard](https://github.com/samwise-nl/samwise-nl/raw/d4ea8f537200d331cec0301f0b2cfc2e72e9903d/cs-naming-is-hard.png)
